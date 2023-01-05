@@ -1,0 +1,19 @@
+#four {
+    color: #000;
+    background-color: #7cff90;
+    font-weight: bold;
+    font-size: 24px;
+}
+    #two {
+        color: #00d2ff;
+        font-size: 36px;
+    
+    }
+.one, .three, .five {
+    color: #000000 ;
+    background-color: #ffa6e3 ;
+}
+p.three {
+    font-size: 24px;
+}
+
